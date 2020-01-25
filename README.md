@@ -9,8 +9,11 @@
 
 Requests:
 ----------------
+
 GET /users/{status}/{citizenship_code}
+
 PUT /user/{id}
+
 DELETE /user/{id}
 
 GET /transactions
